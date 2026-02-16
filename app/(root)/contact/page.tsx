@@ -1,5 +1,6 @@
 import { MapPin, Mail, Github, Linkedin } from "lucide-react";
 import { SiCodeforces } from "react-icons/si";
+import { SpotifyVinyl } from "@/components/spotify-vinyl";
 
 export default function ContactPage() {
     return (
@@ -60,8 +61,13 @@ export default function ContactPage() {
                             >
                                 <SiCodeforces size={20} />
                             </a>
-                            
+
                         </div>
+                    </div>
+
+                    {/* Spotify Now Playing */}
+                    <div className="pt-4">
+                        <SpotifyVinyl />
                     </div>
                 </div>
             </div>
