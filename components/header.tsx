@@ -8,7 +8,7 @@ export function Header() {
     const getSubtitle = () => {
         switch (pathname) {
             case "/":
-                return "Last updated: January xx, 2026";
+                return "Last updated: February 25, 2026";
             case "/projects":
                 return "Projects";
             case "/skills":

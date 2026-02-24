@@ -11,7 +11,7 @@ export const projects: Project[] = [
     image: "/projects/let-him-code.png",
     tags: ["Next.js", "TypeScript", "Generative AI", "E2B", "Prisma", "Clerk"],
     githubUrl: "https://github.com/AdwaitMishr/letHimCode",
-    liveUrl: "https://let-him-code.vercel.app",
+    liveUrl: "https://let-him-code.adwaitmishra.me",
   },
   {
     id: "birbal",
@@ -31,7 +31,7 @@ export const projects: Project[] = [
       "Zustand",
     ],
     githubUrl: "https://github.com/AdwaitMishr/birbal",
-    liveUrl: "https://birbal.vercel.app",
+    liveUrl: "https://birbal.adwaitmishra.me",
   },
   {
     id: "aura-parking",

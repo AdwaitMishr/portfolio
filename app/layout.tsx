@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Adwait Mishra | Developer Portfolio",
   description: "Full-stack developer specializing in React, Next.js, and a CP enthusiast",
+  icons:{
+    icon:"/AdwaitLogo.png"
+  }
 };
 
 export default function RootLayout({
