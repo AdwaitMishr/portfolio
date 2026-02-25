@@ -54,7 +54,7 @@ export default function ContactPage() {
                                 <Linkedin size={20} />
                             </a>
                             <a
-                                href="https://www.linkedin.com/in/adwait7/"
+                                href="https://codeforces.com/profile/monke7"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 rounded-lg bg-card border border-border text-muted-foreground hover:text-primary hover:border-muted-foreground/50 transition-all"
